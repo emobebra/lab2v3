@@ -6,7 +6,12 @@
 
 **Мета**: Навчитися реалізовувати перевантажені конструктори, дослідити порядок їх викликів та зрозуміти основи життєвого циклу об’єкта в C#.
 
-
+<img width="744" height="365" alt="1" src="https://github.com/user-attachments/assets/7f7431ca-387b-46b0-8943-1cd0ba87b212" />
+<img width="741" height="345" alt="2" src="https://github.com/user-attachments/assets/160265c4-8092-46b4-be71-92a0d41d3032" />
+<img width="745" height="368" alt="3" src="https://github.com/user-attachments/assets/1e2808b9-1799-4052-93c8-cde59d2eabfa" />
+<img width="745" height="315" alt="4" src="https://github.com/user-attachments/assets/e67987a9-bdae-4c6b-8dd1-b3d27759cc96" />
+<img width="590" height="90" alt="5" src="https://github.com/user-attachments/assets/7b7db64f-d7db-4207-86e1-d82b2c0580fb" />
+<img width="754" height="354" alt="6" src="https://github.com/user-attachments/assets/5d6b879e-c94b-4628-b5fc-8fcd1f025b93" />
 
 **Контрольні запитання**
 
